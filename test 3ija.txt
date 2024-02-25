@@ -1,0 +1,29 @@
+/*test 3ija */
+/*3dham
+	mrawib +3
+	nossi noss +2
+	yabssa -3
+*/
+/*tmatim
+	hkok -3
+	jdida +1
+	9dima 0
+	chriha +3
+*/
+/*filfil
+	har +3
+	nossy noss( misky ) +5
+	massit -3
+	hlow -20
+*/
+/*dozet
+	/*milh
+		malih -3
+		massouss -3
+		mrigil +3
+	*/
+	/*tebil
+		mrigel +3
+		else -3
+	*/
+*/
