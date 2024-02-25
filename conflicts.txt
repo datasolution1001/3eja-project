@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 yassine khalaf
 
+=======
+nizar hamza
+nizar
+>>>>>>> 448549ab9c033c4a3941c6ce84402f7001b007c8
